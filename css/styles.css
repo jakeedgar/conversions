@@ -1,0 +1,15 @@
+h1 {
+  background-color: black;
+  color: white;
+  padding: 25px;
+  text-align: center;
+}
+#output {
+  margin-left: .1in;
+}
+.btn {
+  background-color: black;
+  color:white;
+  padding: 25px;
+  text-align: center;
+}
